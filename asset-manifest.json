@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Sunglasses/static/js/main.5e3f7feb.chunk.js",
+    "main.js.map": "/Sunglasses/static/js/main.5e3f7feb.chunk.js.map",
+    "runtime-main.js": "/Sunglasses/static/js/runtime-main.ec417bf9.js",
+    "runtime-main.js.map": "/Sunglasses/static/js/runtime-main.ec417bf9.js.map",
+    "static/js/2.14aa9239.chunk.js": "/Sunglasses/static/js/2.14aa9239.chunk.js",
+    "static/js/2.14aa9239.chunk.js.map": "/Sunglasses/static/js/2.14aa9239.chunk.js.map",
+    "index.html": "/Sunglasses/index.html",
+    "precache-manifest.50c1abf9abee65445960bb89751413e6.js": "/Sunglasses/precache-manifest.50c1abf9abee65445960bb89751413e6.js",
+    "service-worker.js": "/Sunglasses/service-worker.js",
+    "static/js/2.14aa9239.chunk.js.LICENSE.txt": "/Sunglasses/static/js/2.14aa9239.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec417bf9.js",
+    "static/js/2.14aa9239.chunk.js",
+    "static/js/main.5e3f7feb.chunk.js"
+  ]
+}
