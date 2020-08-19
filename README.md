@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img src=".github/mobile.png" alt="layout" width="40%">
+  <img src=".github/mobile.png" alt="layout" width="100%">
 </p>
 
 ## 🛠️ Desenvolvimento
