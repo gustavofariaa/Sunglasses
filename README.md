@@ -10,9 +10,11 @@
   <a href="#-redux">Redux</a>
 </p>
 
+<br>
+
 <p align="center">
-  <a href="https://twitter.com/gufariaa" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gufariaa?color=FE546F&label=%40gufariaa&logo=twitter&style=for-the-badge">
+  <a href="https://gustavofariaa.github.io/Sunglasses" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/website?down_color=FE546F&style=for-the-badge&up_color=FE546F&url=https%3A%2F%2Fgustavofariaa.github.io%2FSunglasses">
   </a>
 </p> 
 
@@ -43,6 +45,22 @@ Quando estamos desenvolvendo aplicações utilizando o conceito de [SPA](https:/
 ## ⚛️ Redux
 
 Redux pode ser definido como um container de estado previsível baseado no arquitetura Flux que nada mais é que um nome charmoso do *pattern* Observer modificado para React. Por mais que sua integração mais comum é com o React, o Redux pode ser utilizado também com Angular, Dart, Ember, entre outros.
+
+<br>
+
+
+---
+
+<br>
+
+<p align="center">
+  <a href="https://twitter.com/gufariaa" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/badge/@gufariaa-6246E9?style=for-the-badge&logo=twitter&logoColor=FFFFFF">
+  </a>
+    <a href="https://www.linkedin.com/in/gustavofariaa/" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/badge/Gustavo%20Faria-6246E9?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
+  </a>
+</p> 
 
 
 
