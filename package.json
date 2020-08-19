@@ -2,7 +2,7 @@
   "name": "sunglasses",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gustavofariaa.github.io/",
+  "homepage": "https://gustavofariaa.github.io/Sunglasses/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
