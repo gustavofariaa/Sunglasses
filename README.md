@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-motivação">Motivação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-desenvolvimento">Desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-design">Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-motivação">Motivação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-redux">Redux</a>
 </p>
 
@@ -28,6 +28,10 @@
 
 Esse projeto foi desenvolvido com o intuito de treinar e colocar em prática meus conhecimentos com a biblioteca Redux integrado ao React. Acesse o site criado por meio [desse link](https://gustavofariaa.github.io/Sunglasses).
 
+## 🔥 Motivação
+
+Quando estamos desenvolvendo aplicações utilizando o conceito de [SPA](https://en.wikipedia.org/wiki/Single-page_application), nos deparamos com o gerenciamento de estado. Dependendo da complexidade da aplicação, administrar os estados pode se tornar uma tarefa muito complicada e se feita de maneira pouco otimizada pode colocar a performance em risco. Para resolver problemas como estes é que o Redux foi criado. 
+
 ## 🛠️ Desenvolvimento
 
 - [Node.js](https://nodejs.org/en/)
@@ -37,10 +41,6 @@ Esse projeto foi desenvolvido com o intuito de treinar e colocar em prática meu
 ## 💅🏻 Design
 
 O projeto da interface pode ser visualizado por meio [desse link](https://www.figma.com/file/ylRjRKuWT3gWZHLA21W2fR/Redux?node-id=24%3A0).
-
-## 🔥 Motivação
-
-Quando estamos desenvolvendo aplicações utilizando o conceito de [SPA](https://en.wikipedia.org/wiki/Single-page_application), nos deparamos com o gerenciamento de estado. Dependendo da complexidade da aplicação, administrar os estados pode se tornar uma tarefa muito complicada e se feita de maneira pouco otimizada pode colocar a performance em risco. Para resolver problemas como estes é que o Redux foi criado. 
 
 ## ⚛️ Redux
 
