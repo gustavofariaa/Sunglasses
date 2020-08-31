@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-desenvolvimento">Desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-design">Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-motivação">Motivação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-redux">Redux</a>
 </p>
@@ -24,6 +24,10 @@
   <img src=".github/mobile.png" alt="layout" width="100%">
 </p>
 
+## ✨ Projeto
+
+Esse projeto foi desenvolvido com o intuito de treinar e colocar em prática meus conhecimentos com a biblioteca Redux integrado ao React.
+
 ## 🛠️ Desenvolvimento
 
 - [Node.js](https://nodejs.org/en/)
@@ -33,10 +37,6 @@
 ## 💅🏻 Design
 
 O projeto da interface pode ser visualizado por meio [desse link](https://www.figma.com/file/ylRjRKuWT3gWZHLA21W2fR/Redux?node-id=24%3A0).
-
-## ✨ Projeto
-
-Esse projeto foi desenvolvido com o intuito de treinar e colocar em prática meus conhecimentos com a biblioteca Redux integrado ao React.
 
 ## 🔥 Motivação
 
