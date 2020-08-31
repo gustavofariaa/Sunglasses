@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://gustavofariaa.github.io/Sunglasses" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/website?down_color=FE546F&style=for-the-badge&up_color=FE546F&url=https%3A%2F%2Fgustavofariaa.github.io%2FSunglasses">
+    <img alt="URL" src="https://img.shields.io/website?down_color=FE546F&style=for-the-badge&up_color=FE546F&url=https%3A%2F%2Fgustavofariaa.github.io%2FSunglasses">
   </a>
 </p> 
 
