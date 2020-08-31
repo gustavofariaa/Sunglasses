@@ -26,7 +26,7 @@
 
 ## ✨ Projeto
 
-Esse projeto foi desenvolvido com o intuito de treinar e colocar em prática meus conhecimentos com a biblioteca Redux integrado ao React.
+Esse projeto foi desenvolvido com o intuito de treinar e colocar em prática meus conhecimentos com a biblioteca Redux integrado ao React. Acesse o site criado por meio [desse link](https://gustavofariaa.github.io/Sunglasses).
 
 ## 🛠️ Desenvolvimento
 
